@@ -1,25 +1,25 @@
 export default function People() {
   const people = [
     {
-      name: 'Dr. John Smith',
+      name: 'name',
       role: 'Lab Director',
       image: 'https://placekitten.com/200/200', // Placeholder image
       description: 'Expert in distributed systems and cloud computing.',
-      email: 'john.smith@lab.com'
+      email: 'people@daiict.ac.in'
     },
     {
-      name: 'Dr. Sarah Johnson',
+      name: 'name',
       role: 'Senior Researcher',
       image: 'https://placekitten.com/201/201',
       description: 'Specializes in machine learning and AI systems.',
-      email: 'sarah.j@lab.com'
+      email: 'people@daiict.ac.in'
     },
     {
-      name: 'Mike Wilson',
+      name: 'name',
       role: 'PhD Student',
       image: 'https://placekitten.com/202/202',
       description: 'Researching distributed algorithms.',
-      email: 'mike.w@lab.com'
+      email: 'people@daiict.ac.in'
     },
     // Add more people here
   ];

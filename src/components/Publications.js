@@ -2,7 +2,7 @@ export default function Publications() {
   const publications = [
     {
       title: 'Advanced System Design Patterns in Distributed Computing',
-      authors: ['Smith, J.', 'Johnson, S.', 'Wilson, M.'],
+      authors: ['person', 'person', 'person'],
       journal: 'Journal of System Design',
       year: '2023',
       doi: '10.1234/jsd.2023.001',
@@ -10,7 +10,7 @@ export default function Publications() {
     },
     {
       title: 'Machine Learning Applications in System Architecture',
-      authors: ['Johnson, S.', 'Brown, R.'],
+      authors: ['person', 'person'],
       conference: 'International Conference on System Design',
       year: '2023',
       location: 'San Francisco, CA',
@@ -18,7 +18,7 @@ export default function Publications() {
     },
     {
       title: 'Emerging Trends in Cloud Computing and Distributed Systems',
-      authors: ['Wilson, M.', 'Smith, J.'],
+      authors: ['person', 'person'],
       publisher: 'Tech Publications',
       year: '2022',
       isbn: '978-0-123456-78-9',

@@ -12,7 +12,7 @@ export default function Home() {
           </div>
         </section>
   
-        <section className="py-16 bg-gray-50">
+        <section className="p   y-16 bg-gray-50">
           <div className="max-w-7xl mx-auto px-4">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
